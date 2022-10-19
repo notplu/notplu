@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey there, I'm [plu](https://github.com/notplu) 👋
 
-<!--
-**notplu/notplu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### You can view all of my projects [here](https://github.com/notplu?tab=repositories).
+
+<hr>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/707928705183514665)](https://discord.com/users/707928705183514665)
+
+![notplu's GitHub stats](https://github-readme-stats.vercel.app/api?username=notplu&show_icons=true&theme=dracula)

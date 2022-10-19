@@ -1,6 +1,6 @@
 # Hey there, I'm [plu](https://github.com/notplu) 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,lua,eclipse,powershell,vscode)](https://skillicons.dev)
 
 <hr>
 
